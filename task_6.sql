@@ -1,4 +1,4 @@
-
+USE alx_book_store;
 Data insertion
 
     - `customer_id` = `2`
